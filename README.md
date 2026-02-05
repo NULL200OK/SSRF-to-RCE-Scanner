@@ -53,7 +53,7 @@ Quick Installation
 
 git clone https://github.com/NULL200OK/SSRF-to-RCE-Scanner.git
 
-cd ssrf-to-rce
+cd SSRF-to-RCE-Scanner
 
 # Install dependencies
 

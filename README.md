@@ -51,7 +51,7 @@ Quick Installation
 
 # Clone the repository
 
-git clone https://github.com/yourusername/ssrf-to-rce.git
+git clone https://github.com/yourusername/ssrf-to-rce.git](https://github.com/NULL200OK/SSRF-to-RCE-Scanner.git
 
 cd ssrf-to-rce
 
